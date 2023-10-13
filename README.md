@@ -1,5 +1,5 @@
 # SeatAssist_App**
-The project is an Android application.**
+**The project is an Android application**
 
 **Background:**
 Our product in the project is called "Seat Assist." We have chosen to create an application for managing seating in open office spaces within office companies. The application provides a flexible working solution and maximizes the utilization of office space. The application will create a platform that allows users (office employees) to access the seat reservation system based on their relevant working days from anywhere and at any time, without the need for customer service assistance. Users will be able to view available seats in the office, reserve their preferred seats, see occupied seats, view their past seat reservation history, make future reservations, edit their details, and more.
