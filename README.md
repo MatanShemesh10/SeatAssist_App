@@ -1,4 +1,4 @@
-# SeatAssist_App**
+# SeatAssist_App
 **The project is an Android application**
 
 **Background:**
